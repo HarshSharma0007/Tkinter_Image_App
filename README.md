@@ -1,6 +1,2 @@
-# Simple Challenges
-Before writing down anything I wanna put a note.<br> <b>Note</b> I don't know much about this platform as I usually used it for learning.But now let's learn together by creating not so cool projects. <br>
-<b>Challenge 1: Learning To Create a GUI </b><br>
-I will be Using Python here.<br>
-Project_1:Making a Photo display<br> 
-(but easiest)<br>
+# Tkinter Applicaton
+In this program I had created an application of tkinter using images.<br> <b>Note:</b>Program begins by importing tkinter and images file from the system.Therefore save this file in the same folder where the code is saved otherwise update the file path in the codes.<br>
